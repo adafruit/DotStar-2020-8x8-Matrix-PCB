@@ -2,6 +2,8 @@
 PCB files for the Adafruit DotStar 2020 8x8 Matrix
 Format is EagleCAD schematic and board layout
 
+When fabricating, make sure all vias under LEDs are fully tented
+
 For more details, check out the product page at
 
    * https://www.adafruit.com/product/3444
